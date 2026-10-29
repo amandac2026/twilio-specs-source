@@ -210,7 +210,7 @@
   },
   "info": {
     "title": "Twilio - Lookups",
-    "description": "edited for test",
+    "description": "edited to test delta sync",
     "termsOfService": "https://www.twilio.com/legal/tos",
     "contact": {
       "name": "Twilio Support",
